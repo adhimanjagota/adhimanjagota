@@ -27,9 +27,9 @@ I build data pipelines, ML systems, and educational tools that reach real users.
 | Project | What it does | Stack |
 |---|---|---|
 | [money-minds](https://github.com/adhimanjagota/money-minds) | Decision engine processing 2,500+ user events, 30% accuracy improvement | Python, Java |
-| [credit-risk-predictor](https://github.com/adhimanjagota/credit-risk-predictor) | ML pipeline predicting loan default probability — Random Forest, Gradient Boosting | Python, scikit-learn |
-| [funlearners-platform](https://github.com/adhimanjagota/funlearners-platform) | Interactive coding tutorials for 1,200+ learners | Java, JS |
-| [smart-irrigation-system](https://github.com/adhimanjagota/smart-irrigation-system) | Embedded control system with 1,000+ sensor test cycles | C++, Arduino |
+| [credit-risk-predictor](https://github.com/adhimanjagota/credit-risk-predictor) | ML pipeline classifying 2,500 loan applicants across 3 models — 89% ROC-AUC | Python, scikit-learn |
+| [funlearners-platform](https://github.com/adhimanjagota/funlearners-platform) | Interactive coding tutorials for 1,200+ learners across 8 languages | Python |
+| [ai-task-api](https://github.com/adhimanjagota/ai-task-api) | REST API auto-classifying tasks into 5 categories with real-time priority scoring across 6 urgency signals | Python, Flask |
 
 ---
 
